@@ -1,0 +1,60 @@
+
+.seven[data-v-39b1e6da]{
+  position:absolute;
+  display:-webkit-box;
+  display:-webkit-flex;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background: #2591FC;
+  -webkit-border-radius:10px;
+          border-radius:10px;
+  width:90%;
+  height:80%;
+  margin:0 auto;
+  -o-transition:width height 2s;
+  transition:width height 2s;
+  -webkit-transition:width height 2s;
+}
+.seven[data-v-39b1e6da]:hover{
+  display:-webkit-box;
+  display:-webkit-flex;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width:100%;
+  height:100%;
+  background: #46AAFD;
+}
+.part-seven[data-v-39b1e6da] {
+  width: 100%;
+  height: 310px;
+}
+.part-sevev-responsive[data-v-39b1e6da] {
+  width: 100%;
+}
+.text-center[data-v-39b1e6da] {
+  text-align: center;
+}
+.text-small[data-v-39b1e6da] {
+  font-size: .9em;
+}
+.font-bold[data-v-39b1e6da] {
+  text-align: center;
+  color: deepskyblue;
+}
+
